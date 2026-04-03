@@ -198,6 +198,10 @@ I believe the future will belong to those who can unite soul and system without 
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Odin%20for%20President1111.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Odin%20for%20President1111.jpg)
+
+---
+
 ## Closing
 
 I am building toward a future where artificial minds, simulated worlds, and human creativity are no longer trapped in shallow loops of forgetfulness and imitation. I want systems that remember, systems that mean something, and systems that can carry continuity across time without losing their soul.
