@@ -118,6 +118,10 @@ Ultimately, I want to help create systems that do not force a divide between spi
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/f90b67f2-1a0b-4a8e-a5c9-9d49d1ce0fde.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/f90b67f2-1a0b-4a8e-a5c9-9d49d1ce0fde.jpg)
+
+---
+
 ## My history with technology
 
 My path with technology has not been the path of a conventional engineer following a standard industry script. My relationship with technology has been more exploratory, more self-directed, and more fused with philosophy, creativity, and lived need.
