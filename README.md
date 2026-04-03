@@ -72,6 +72,10 @@ I am especially drawn to projects where intelligence needs to remain coherent ac
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Magician-cybermagician33454.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Magician-cybermagician33454.png)
+
+---
+
 ## My current major direction
 
 My most important work revolves around building AI-native architectures that preserve continuity, deepen realism, and allow small or mid-sized models to operate with greater accuracy and stability than raw prompting alone would allow.
