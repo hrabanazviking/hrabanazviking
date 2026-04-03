@@ -10,6 +10,10 @@ I am not interested in shallow novelty. I care about depth. I care about archite
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/7657567562uuzfhtuuzfhtuuzf.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/7657567562uuzfhtuuzfhtuuzf.jpg)
+
+---
+
 ## Who I am
 
 I am a modern Norse Pagan and a highly introspective systems thinker. My worldview is shaped not only by Heathen spirituality, but also by Hinduism, Buddhism, occult philosophy, comparative religion, anthropology, and a lifelong fascination with the hidden patterns behind human thought and behavior. I am deeply interested in the way meaning forms in minds, cultures, stories, symbols, rituals, and machines.
