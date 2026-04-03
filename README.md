@@ -209,3 +209,9 @@ I am building toward a future where artificial minds, simulated worlds, and huma
 That is the forge I work at.
 
 And I am only getting started.
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png)
+
+---
