@@ -173,6 +173,10 @@ I do not treat AI as a magic oracle. I treat it as a powerful but imperfect inte
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/497443174_1390774162112722_1830450781661581514_n.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/497443174_1390774162112722_1830450781661581514_n.jpg)
+
+---
+
 ## What I stand for
 
 I stand for depth over shallowness, continuity over fragmentation, truth over drift, architecture over hype, authenticity over performance, and meaning over empty scale.
