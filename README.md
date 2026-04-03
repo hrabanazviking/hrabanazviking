@@ -46,6 +46,10 @@ I do not relate to technology as a trend-chasing consumer. I relate to it as a m
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/d53d008a-ab06-4b3d-9cf1-bf2dc7cdab2a.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/d53d008a-ab06-4b3d-9cf1-bf2dc7cdab2a.jpg)
+
+---
+
 ## The kinds of projects I love to build
 
 The projects that call to me most strongly tend to combine several of the following:
