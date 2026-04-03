@@ -90,6 +90,10 @@ Across all of this, the technical aim is the same: preserve truth, continuity, m
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/403362de-c6a1-45df-93ee-c106a3c9ff0d.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/403362de-c6a1-45df-93ee-c106a3c9ff0d.jpg)
+
+---
+
 ## My ultimate dream projects
 
 My dream projects are not small. They are long-range, civilization-scale creative and technical visions.
