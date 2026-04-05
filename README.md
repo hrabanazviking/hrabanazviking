@@ -24,6 +24,10 @@ My personality is a blend of the mystical and the technical. I am philosophical 
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1775351958838.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1775351958838.png)
+
+---
+
 ## My core philosophies
 
 ### 1. Memory is the foundation of real intelligence
