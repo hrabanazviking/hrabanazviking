@@ -1,5 +1,25 @@
 # Volmarr Wyrd
 
+Norse Pagan • Mythic Engineering • AI Systems • Viking-themed worldbuilding
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hrabanazviking&theme=synthwave&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrabanazviking&theme=synthwave&hide_border=true&layout=compact)
+
+![](https://streak-stats.demolab.com?user=hrabanazviking&theme=synthwave&hide_border=true)
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,github,vscode,linux,markdown,git,wordpress,discord,gmail,html,ai,instagram,linkedin,md,pycharm,pytorch,raspberrypi,tensorflow,ubuntu,redhat,windows,vscode,twitter,unity,debian,cmake)](https://skillicons.dev)
+
+## Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/hrabanazviking)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-RuneForgeAI-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/RuneForgeAI)
+
+---
+
 ## Norse Pagan technologist, worldbuilder, philosopher, AI systems architect, and cyber-Viking creator
 
 *“I did not learn data science to master its rules; I built my own by following what called to me. The data obeys no gatekeepers.” - Volmarr Wyrd, the Mad Techno Viking Data Scientist*
