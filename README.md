@@ -18,6 +18,24 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-themed worldbuildin
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/hrabanazviking)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-RuneForgeAI-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/RuneForgeAI)
 
+## Across the Web
+
+[![Book of Shadows](https://img.shields.io/badge/Book%20of%20Shadows-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://volmarrbookofshadows.wordpress.com)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/HrabanazViking)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/volmarrtheviking/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@volmarrviking)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/volmarr.viking)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@volmarrtheviking)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hrabanazviking)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hrabanazviking)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/volmarrviking.bsky.social)
+
+## Gaming / VR
+
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/hrabanazviking/)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://profile.playstation.com/Hrabanaz_Viking)
+[![Meta Horizons](https://img.shields.io/badge/Meta%20Horizons-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://horizon.meta.com/profile/Hrabanaz.Viking/)
+
 ---
 
 ## Norse Pagan technologist, worldbuilder, philosopher, AI systems architect, and cyber-Viking creator
