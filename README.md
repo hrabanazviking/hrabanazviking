@@ -11,7 +11,7 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-themed worldbuildin
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,github,vscode,linux,markdown,git,wordpress,discord,gmail,html,ai,instagram,linkedin,md,pycharm,pytorch,raspberrypi,tensorflow,ubuntu,redhat,windows,vscode,twitter,unity,debian,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,github,vscode,linux,markdown,git,wordpress,discord,gmail,html,ai,instagram,linkedin,pycharm,pytorch,raspberrypi,tensorflow,ubuntu,redhat,windows,vscode,twitter,unity,debian,cmake)](https://skillicons.dev)
 
 ## Links
 
