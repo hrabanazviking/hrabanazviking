@@ -1,6 +1,6 @@
 # Volmarr Wyrd
 
-Norse Pagan • Mythic Engineering • AI Systems • Viking-themed worldbuilding
+Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuilding
 
 ## GitHub Stats
 
