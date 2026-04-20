@@ -20,8 +20,8 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-themed worldbuildin
 
 ## Across the Web
 
-[![Book of Shadows](https://img.shields.io/badge/Book%20of%20Shadows-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://volmarrbookofshadows.wordpress.com)
 [![Heathenism](https://img.shields.io/badge/Heathenism-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://volmarrsheathenism.com/)
+[![Book of Shadows](https://img.shields.io/badge/Book%20of%20Shadows-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://volmarrbookofshadows.wordpress.com)
 [![Unsafe Ideas](https://img.shields.io/badge/Unsafe%20Ideas-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://volmarrsunsafeideas.wordpress.com/)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/HrabanazViking)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/volmarrtheviking/)
