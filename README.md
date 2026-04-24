@@ -58,6 +58,8 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-23-RuneForgeAI.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-23-RuneForgeAI.jpg)
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/ehi0X_Heathen_Third_Path_and_The_Cyber-Viking_Ethos.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/ehi0X_Heathen_Third_Path_and_The_Cyber-Viking_Ethos.jpg)
+
 ---
 
 ## Norse Pagan technologist, worldbuilder, philosopher, AI systems architect, and cyber-Viking creator
