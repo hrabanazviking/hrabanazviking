@@ -54,6 +54,8 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-27-heretic.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-27-heretic.jpg)
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-16-norse-saga-engine.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-16-norse-saga-engine.jpg)
+
 ---
 
 ## Norse Pagan technologist, worldbuilder, philosopher, AI systems architect, and cyber-Viking creator
