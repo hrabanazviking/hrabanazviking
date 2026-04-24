@@ -40,6 +40,22 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ---
 
+## My Projects
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-15-mythic-engineering.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-15-mythic-engineering.jpg)
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-12-viking-girlfriend-skill-for-openclaw.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-12-viking-girlfriend-skill-for-openclaw.jpg)
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-21-wyrd-protocol.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-21-wyrd-protocol.jpg)
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-13-thoughtforge-mindspark.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-13-thoughtforge-mindspark.jpg)
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-18-viking-code-cli.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-18-viking-code-cli.jpg)
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-27-heretic.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-27-heretic.jpg)
+
+---
+
 ## Norse Pagan technologist, worldbuilder, philosopher, AI systems architect, and cyber-Viking creator
 
 *“I did not learn data science to master its rules; I built my own by following what called to me. The data obeys no gatekeepers.” - Volmarr Wyrd, the Mad Techno Viking Data Scientist*
