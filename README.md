@@ -42,7 +42,7 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ## My Projects
 
-![https://github.com/hrabanazviking/hrabanazviking/](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-15-mythic-engineering.jpg)
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-15-mythic-engineering.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-15-mythic-engineering.jpg)
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-12-viking-girlfriend-skill-for-openclaw.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-12-viking-girlfriend-skill-for-openclaw.jpg)
 
