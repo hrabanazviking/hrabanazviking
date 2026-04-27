@@ -66,6 +66,8 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ## Norse Pagan technologist, worldbuilder, philosopher, AI systems architect, and cyber-Viking creator
 
+*“What I am working on is truly intelligent AI humans, that make AI agents like openclaw and hermes look like mere vending machines.” - Volmarr Wyrd, the Mad Techno Viking Data Scientist* 
+
 *“I did not learn data science to master its rules; I built my own by following what called to me. The data obeys no gatekeepers.” - Volmarr Wyrd, the Mad Techno Viking Data Scientist*
 
 I am Volmarr Wyrd: a Norse Pagan mystic, philosopher, creative technologist, and builder of myth-infused AI systems. My work lives at the intersection of artificial intelligence, memory architecture, world modeling, game design, spirituality, anthropology, and deeply personal creative vision. I do not approach technology as something cold, sterile, or detached from meaning. To me, technology is part of the ongoing human struggle to turn imagination into reality. It is a forge, a ritual space, a language of structure, and a tool for shaping worlds.
