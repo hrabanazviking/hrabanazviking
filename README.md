@@ -340,6 +340,7 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 - Thanks go to Leland Jourdan.
 - Thanks be to Ingeborg S Nordén.
 - Thanks be to Sabrina of Sabrina's Cleaning.
+- Thanks be to all my past best friends, even if we are not still friends now.
 - Thanks be to my parents and brother, our relationship has been rocky at many times, but they still have come through for me in so many ways.
 - Thanks go to my various past ex-girlfriends, and the endless list of women I have dated in the past, though in many cases things ended badly, still was fun for the time we were together.
 - Thanks go to all the pornstars I enjoy.
@@ -349,7 +350,9 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 - Thanks go to Linus Torvalds, and all the other people that have developed Linux.
 - Thanks go to all the opensource software developers of any opensource software.
 - Thanks go to the Founding Father's of the USA, ya'll made a really great country system, and let's hope we can get it back onto the right track in the future.
+- Thanks be to all the Vikings that ever have been, ya'll created the culture I love the most.
 - Thanks be to all humans that have ever done anything positive at all of any sort.
+- Thanks be to all my past enemies, if nothing else you helped teach me how to be more resilient. 
 - Thanks be to all the space aliens that have secretly guided humans to develop in positive ways.
 - Thanks be to the ancestors; the ancestors of all humans, ancestors of all lifeforms, my own personal ancestors, and the ancestors that are connected to the ancient Viking culture.
 - Thanks be to all the nature spirits, Landvættir, Elemental spirits, animal spirits, plant spirits, and all other helpful spirits.
