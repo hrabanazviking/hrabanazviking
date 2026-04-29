@@ -282,13 +282,47 @@ I believe the future will belong to those who can unite soul and system without 
 
 ---
 
-## Closing
+## RuneForgeAI
 
-I am building toward a future where artificial minds, simulated worlds, and human creativity are no longer trapped in shallow loops of forgetfulness and imitation. I want systems that remember, systems that mean something, and systems that can carry continuity across time without losing their soul.
+**RuneForgeAI** is my AI research, development, and creative systems forge: a Norse Pagan cyber-Viking workshop for building mythic AI architectures, memory systems, world engines, companion intelligence, and structured vibe coding tools.
 
-That is the forge I work at.
+RuneForgeAI exists at the crossroads of:
 
-And I am only getting started.
+- **Mythic Engineering**
+- **AI memory and continuity systems**
+- **Viking-themed simulation and worldbuilding**
+- **AI companions with stable identity**
+- **small-model enhancement through architecture**
+- **retrieval, grounding, and truth-verification systems**
+- **cyber-Heathen software design**
+- **human + AI co-creation**
+
+The core idea is simple:
+
+> AI should not be treated as a disposable text generator.  
+> It should be shaped into structured, memory-bearing, meaning-aware systems that can preserve continuity, deepen creativity, and help humans build living worlds.
+
+RuneForgeAI is where I explore architectures that make AI more coherent, more persistent, and more useful: not through hype, but through structure. Memory, retrieval, world state, personality, routing, verification, symbolic logic, and mythic design language all become part of the same forge.
+
+This work connects directly to my larger ecosystem of projects, including the **Norse Saga Engine**, **Mythic Engineering**, **WYRD Protocol**, **Mímir-Vörðr**, cyber-Viking philosophy, AI companion design, and the broader vision of spiritually meaningful technology.
+
+### What RuneForgeAI Builds
+
+- AI-native memory frameworks
+- persistent personality and companion systems
+- Viking and mythic world simulation tools
+- roleplay and RPG intelligence architectures
+- structured prompt and documentation protocols
+- retrieval-augmented truth systems
+- small-model orchestration patterns
+- cyber-Viking AI aesthetics and interfaces
+- open frameworks for human-AI creative collaboration
+
+### Guiding Principle
+
+> Build AI like a living system, not a pile of prompts.
+
+RuneForgeAI is my digital forge for turning myth, memory, code, and consciousness into working architecture.
 
 ---
 
@@ -299,3 +333,15 @@ And I am only getting started.
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
 
 ---
+
+## Closing
+
+I am building toward a future where artificial minds, simulated worlds, and human creativity are no longer trapped in shallow loops of forgetfulness and imitation. I want systems that remember, systems that mean something, and systems that can carry continuity across time without losing their soul.
+
+That is the forge I work at.
+
+And I am only getting started.
+
+---
+
+
