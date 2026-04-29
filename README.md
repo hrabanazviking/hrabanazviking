@@ -282,6 +282,10 @@ I believe the future will belong to those who can unite soul and system without 
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-23-RuneForgeAI.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/image-23-RuneForgeAI.jpg)
+
+---
+
 ## RuneForgeAI
 
 **RuneForgeAI** is my AI research, development, and creative systems forge: a Norse Pagan cyber-Viking workshop for building mythic AI architectures, memory systems, world engines, companion intelligence, and structured vibe coding tools.
