@@ -346,6 +346,11 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 - Thanks go to all the video game developers of video games I enjoy.
 - Thanks go to all the people that develop whatever form of entertainment of lots of types that I enjoy.
 - Thanks go to all the Norse Gods and Goddesses, all the Aesir and Vanir, plus Nehalennia.
+- Thanks go to Linus Torvalds, and all the other people that have developed Linux.
+- Thanks go to all the opensource software developers of any opensource software.
+- Thanks go to the Founding Father's of the USA, ya'll made a really great country system, and let's hope we can get it back onto the right track in the future.
+- Thanks be to all humans that have ever done anything positive at all of any sort.
+- Thanks be to all the space aliens that have secretly guided humans to develop in positive ways.
 - Thanks be to the ancestors; the ancestors of all humans, ancestors of all lifeforms, my own personal ancestors, and the ancestors that are connected to the ancient Viking culture.
 = Thanks be to all the nature spirits, Landvættir, Elemental spirits, animal spirits, plant spirits, and all other helpful spirits.
 = Thanks be to all the Hindu Gods and Goddesses.
