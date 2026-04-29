@@ -326,10 +326,6 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png)
-
----
-
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
 
 ---
@@ -344,4 +340,6 @@ And I am only getting started.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png)
 
+---
