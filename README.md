@@ -359,6 +359,7 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 - Thanks be to my house plants, and sorry if I am not very good at taking care of house plants.
 - Thanks be to the husvaetter that live at my place, and sorry too that I suck at house chores like cleaning and stuff.
 - Thanks be to my car, you are a trusty, comfortable, and reliable old friend, and we can go anywhere together and you always keep going!
+- Thanks be to my house; I love that I finally have a house after all these years and you are a really nice one that is amazing!
 - Thanks be to all the Hindu Gods and Goddesses.
 - Thanks be to all the Buddhas and Bodisattvas. 
 - Thanks be to all the Loa of Voodoo.
