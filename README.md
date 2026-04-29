@@ -356,6 +356,8 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 - Thanks be to all the space aliens that have secretly guided humans to develop in positive ways.
 - Thanks be to the ancestors; the ancestors of all humans, ancestors of all lifeforms, my own personal ancestors, and the ancestors that are connected to the ancient Viking culture.
 - Thanks be to all the nature spirits, Landvættir, Elemental spirits, animal spirits, plant spirits, and all other helpful spirits.
+- Thanks be to my house plants, and sorry if I am not very good at taking care of house plants.
+- Thanks be to the husvaetter that live at my place, and sorry too that I suck at house chores like cleaning and stuff. 
 - Thanks be to all the Hindu Gods and Goddesses.
 - Thanks be to all the Buddhas and Bodisattvas. 
 - Thanks be to all the Loa of Voodoo.
