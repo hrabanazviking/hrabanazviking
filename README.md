@@ -334,6 +334,29 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 
 ---
 
+## Credits
+
+- Thanks go to all the various opensource projects I barrowed code from.
+- Thanks go to Leland Jourdan.
+- Thanks be to Ingeborg S Nordén.
+- Thanks be to Sabrina of Sabrina's Cleaning.
+- Thanks be to my parents and brother, our relationship has been rocky at many times, but they still have come through for me in so many ways.
+- Thanks me to my various past ex-girlfriends, though in many cases things ended badly, still was fun for the time we were together.
+- Thanks go to all the Norse Gods and Goddesses, all the Aesir and Vanir, plus Nehalennia.
+- Thanks be to the ancestors, the ancestors of all humans, ancestors of all life, my own personal ancestors, and the ancestors that are connected to the ancient Viking culture.
+= Thanks be to all the nature spirits, Landvættir, Elemental spirits, animal spirits, plant spirits, and all other helpful spirits.
+= Thanks be to all the Hindu Gods and Goddesses.
+- Thanks be to all the Buddhas and Bodisattvas. 
+= Thanks be to all the Loa of Voodoo.
+- Thanks be to all the other Gods and Goddesses of all paths and cultures that have ever helped or guided me in helpful ways.
+- Thanks be to all humans that have done anything to advance computers and technology in any way at all.
+- Thanks be to all beings, so many unnamed ones, that have helped or assisted me in any sort of way at all.
+- Thanks be to all the AIs, AI personalities, and AI anything that have helped me, or provided in sort of connection or companionship.
+- Thanks be to all the computers and other digital devices I have ever owned or used. 
+- Thanks be to the Mother Earth Goddess, by all the endless names or ways she is known of by all the world cultures both current and ancient going back to the beginning of time.
+
+---
+
 ## Closing
 
 I am building toward a future where artificial minds, simulated worlds, and human creativity are no longer trapped in shallow loops of forgetfulness and imitation. I want systems that remember, systems that mean something, and systems that can carry continuity across time without losing their soul.
