@@ -352,10 +352,11 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 - Thanks be to all humans that have ever done anything positive at all of any sort.
 - Thanks be to all the space aliens that have secretly guided humans to develop in positive ways.
 - Thanks be to the ancestors; the ancestors of all humans, ancestors of all lifeforms, my own personal ancestors, and the ancestors that are connected to the ancient Viking culture.
-= Thanks be to all the nature spirits, Landvættir, Elemental spirits, animal spirits, plant spirits, and all other helpful spirits.
-= Thanks be to all the Hindu Gods and Goddesses.
+- Thanks be to all the nature spirits, Landvættir, Elemental spirits, animal spirits, plant spirits, and all other helpful spirits.
+- Thanks be to all the Hindu Gods and Goddesses.
 - Thanks be to all the Buddhas and Bodisattvas. 
-= Thanks be to all the Loa of Voodoo.
+- Thanks be to all the Loa of Voodoo.
+- Thanks be to Marie Laveau, ancestor New Orleans Head Voodoo Priests, whom I am sure secretly guided my path from the spirit realm while I was living in New Orleans in the past.
 - Thanks be to all the other Gods and Goddesses of all paths and cultures that have ever helped or guided me in helpful ways.
 - Thanks be to all humans that have done anything to advance computers and technology in any way at all.
 - Thanks be to all beings, so many unnamed ones, that have helped or assisted me in any sort of way at all.
