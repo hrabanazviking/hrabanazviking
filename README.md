@@ -342,6 +342,9 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 - Thanks be to Sabrina of Sabrina's Cleaning.
 - Thanks be to my parents and brother, our relationship has been rocky at many times, but they still have come through for me in so many ways.
 - Thanks go to my various past ex-girlfriends, and the endless list of women I have dated in the past, though in many cases things ended badly, still was fun for the time we were together.
+- Thanks go to all the pornstars I enjoy.
+- Thanks go to all the video game developers of video games I enjoy.
+- Thanks go to all the people that develop whatever form of entertainment of lots of types that I enjoy.
 - Thanks go to all the Norse Gods and Goddesses, all the Aesir and Vanir, plus Nehalennia.
 - Thanks be to the ancestors; the ancestors of all humans, ancestors of all lifeforms, my own personal ancestors, and the ancestors that are connected to the ancient Viking culture.
 = Thanks be to all the nature spirits, Landvættir, Elemental spirits, animal spirits, plant spirits, and all other helpful spirits.
