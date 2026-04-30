@@ -372,6 +372,10 @@ The world stands at a pivotal crossroads right now, teetering between a bright s
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/94DA7681-E450-4AC6-8F7F-54219F856039.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/94DA7681-E450-4AC6-8F7F-54219F856039.png)
+
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
 
 ---
