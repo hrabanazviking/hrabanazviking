@@ -62,6 +62,8 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/sZeta-micro-reality.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/sZeta-micro-reality.jpg)
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/f770d7aa-d6f7-4b1b-ad95-f33b67e7e08e.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/f770d7aa-d6f7-4b1b-ad95-f33b67e7e08e.jpg)
+
 ---
 
 ## Norse Pagan technologist, worldbuilder, philosopher, AI systems architect, and cyber-Viking creator
@@ -397,10 +399,6 @@ The world stands at a pivotal crossroads right now, teetering between a bright s
 ---
 
 ![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
-
----
-
-![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/f770d7aa-d6f7-4b1b-ad95-f33b67e7e08e.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/f770d7aa-d6f7-4b1b-ad95-f33b67e7e08e.jpg)
 
 ---
 
