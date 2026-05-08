@@ -328,6 +328,14 @@ This work connects directly to my larger ecosystem of projects, including the **
 
 RuneForgeAI is my digital forge for turning myth, memory, code, and consciousness into working architecture.
 
+### RuneForgeAI Opensource Projects
+
+**All RuneForgeAI Opensource Projects can be found in one of three places online!**
+
+- https://github.com/hrabanazviking
+- https://github.com/runafreyjasdottir
+- https://huggingface.co/RuneForgeAI
+
 ---
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/file_000000003ab871f586f5c60ff839bc2b.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/file_000000003ab871f586f5c60ff839bc2b.png)
