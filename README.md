@@ -435,6 +435,13 @@ The world stands at a pivotal crossroads right now, teetering between a bright s
 
 ---
 
+## 🖖 Connect
+
+- 📧 `runeforgeai@agentmail.to`
+- 🌐 [volmarrsheathenism.com](https://volmarrsheathenism.com)
+
+---
+
 ## Closing
 
 I am building toward a future where **artificial minds**, **simulated worlds**, and **human creativity** are no longer trapped in shallow loops of forgetfulness and imitation. I want systems that remember, systems that mean something, and systems that can carry continuity across time without losing their soul. 
