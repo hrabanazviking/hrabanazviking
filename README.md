@@ -330,7 +330,7 @@ RuneForgeAI is my digital forge for turning myth, memory, code, and consciousnes
 
 ### RuneForgeAI Opensource Projects
 
-**All RuneForgeAI Opensource Projects can be found in one of three places online!**
+All RuneForgeAI Opensource Projects can be found in one of three places online!
 
 - https://github.com/hrabanazviking
 - https://github.com/runafreyjasdottir
