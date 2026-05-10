@@ -228,6 +228,10 @@ Technology did not make me who I am by replacing my identity. It amplified what 
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Verdandi/refs/heads/main/IMG_0787.jpeg](https://raw.githubusercontent.com/hrabanazviking/Verdandi/refs/heads/main/IMG_0787.jpeg)
+
+---
+
 ## My working style
 
 I am a highly conceptual but also highly practical builder. I often work by combining the following:
