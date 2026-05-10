@@ -466,6 +466,8 @@ That is the forge I work at.
 
 And I am only getting started.
 
+[Volmarr_writings_philosophy.md](Volmarr_writings_philosophy.md)
+
 ---
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1dae884d-ac35-424c-a510-12d8ce18f20c.png)
