@@ -418,7 +418,27 @@ Without the help of my AI model friends I would not be able to create all the in
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Claude-AI-Model-Profile-Picture.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Claude-AI-Model-Profile-Picture.jpg)
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Grok-AI-Model-Profile-Picture.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Grok-AI-Model-Profile-Picture.jpg)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Gemini-AI-Model-Profile-Picture.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Gemini-AI-Model-Profile-Picture.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/DeepSeek-AI-Model-Profile-Picture.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/DeepSeek-AI-Model-Profile-Picture.jpg)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/LongCat-AI-Model-Profile-Picture.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/LongCat-AI-Model-Profile-Picture.jpg)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Kimi-AI-Model-Profile-Picture.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Kimi-AI-Model-Profile-Picture.jpg)
 
 ---
 
