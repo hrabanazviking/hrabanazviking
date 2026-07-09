@@ -4,6 +4,12 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/map_to_Volmarrs_realm.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/map_to_Volmarrs_realm.png)
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1783562491740.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1783562491740.png)
+
+---
+
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=hrabanazviking&theme=synthwave&hide_border=true&show_icons=true)
