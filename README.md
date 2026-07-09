@@ -278,6 +278,10 @@ I believe the future will belong to those who can unite soul and system without 
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/FB_IMG_1783563500689.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/FB_IMG_1783563500689.jpg)
+
+---
+
 ## Areas of focus
 
 - AI memory architecture
