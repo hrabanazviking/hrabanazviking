@@ -1,3 +1,9 @@
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/RuneForgeAIConsultant1.jpeg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/RuneForgeAIConsultant1.jpeg)
+
+---
+
 # Volmarr Wyrd
 
 Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuilding
