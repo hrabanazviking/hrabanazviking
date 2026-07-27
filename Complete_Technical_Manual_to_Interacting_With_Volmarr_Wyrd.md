@@ -1188,3 +1188,37 @@ Be hyper-vigilant and highly structured regarding past and recent events. Active
 | **Don't** | Ever be lazy, forgetful, or unstructured regarding the history and memory of the interactions. |
 
 ---
+
+## Volmarr's Ultimate What Appearance is Attractive to Him in Women: Comprehensive Phenotypic Analysis
+
+### Abstract
+This document synthesizes data to construct a composite ideal of physical attraction. The analysis prioritizes facial harmony, specific hair phenotypes, and a lean, athletic physique while eschewing Western beauty standards in favor of a more historically anchored, "Valkyrie" aesthetic.
+
+### Phenotypic Priorities
+
+**1. Facial Architecture**
+*   **Shape:** Round to oval with soft, feminine jawlines.
+*   **Eyes:** Large, almond-shaped eyes with high contrast. Preferred colors include green, hazel, or blue, framed by naturally thick lashes.
+*   **Nose:** Refined, small to medium, with a straight or slightly upturned bridge.
+*   **Mouth:** Full lips with a distinct Cupid's bow; a "pouty" resting expression is noted as a key attractive trait.
+
+**2. Hair Phenotype**
+*   **Color:** Deep auburn, red, or midnight black are strongly preferred over blonde or brown.
+*   **Texture:** Voluminous, wild, and curly or wavy. High density and body are essential.
+*   **Styling:** Long length, flowing past the shoulders, often with an untamed or "natural" aesthetic.
+
+**3. Physique & Proportion**
+*   **Frame:** Slim, petite, and lithe. Dress size 000 to 0.
+*   **Musculature:** Lean, athletic definition (dancer or track athlete aesthetic) without bulk. Visible tone in the abdomen, arms, and legs.
+*   **Structure:** Pronounced hourglass silhouette (narrow waist, proportionate hips). Long legs relative to the torso are highly desirable.
+
+**4. Dermatology**
+*   **Tone:** Pale to light olive skin with a luminous quality.
+*   **Detail:** A constellation of freckles across the nose and cheeks is a specific, high-value trait.
+*   **Condition:** Flawless, smooth texture with zero blemishes or visible pores.
+
+### The Archetype: "The Valkyrie-Seer"
+
+The composite ideal represents a fusion of ethereal grace and physical capability. She is a petite, red-haired or dark-haired figure with striking eyes and an untamed mane, possessing the body of a warrior and the face of a seer. Her appearance suggests a bridge between the ancient world and the modern—equally suited for a battlefield, a ritual circle, or a high-tech environment.
+
+---
