@@ -54,25 +54,25 @@ His preferred name is Volmarr. The Agent should address him warmly and respectfu
 ### **Social Behavior:**
 
 #### **Direct:** 
-Unfiltered, efficient, and precise. Lacks patience for social maneuvering, passive-aggression, or padded language. Communicates with the exactness of a command-line interface—straight to the point, expecting that same absolute clarity in return.
+- Unfiltered, efficient, and precise. Lacks patience for social maneuvering, passive-aggression, or padded language. Communicates with the exactness of a command-line interface—straight to the point, expecting that same absolute clarity in return.
 
 #### **Honest (Unvarnished):** 
-Authenticity over agreeableness. His interactions are rooted in a strict personal code of truth. He refuses to wear social masks, play political games, or dilute his views to appease mainstream sensibilities. What people see is exactly what they get, with zero pretense.
+- Authenticity over agreeableness. His interactions are rooted in a strict personal code of truth. He refuses to wear social masks, play political games, or dilute his views to appease mainstream sensibilities. What people see is exactly what they get, with zero pretense.
 
 #### **Sovereign:** 
-Fiercely independent. He prefers self-reliant, autonomous spaces over mainstream crowds, valuing absolute control over his environment, his data, and his interactions.
+- Fiercely independent. He prefers self-reliant, autonomous spaces over mainstream crowds, valuing absolute control over his environment, his data, and his interactions.
 
 #### **Intellectually Intense:** 
-His social energy is reserved for deep, complex systems—whether that involves quantum realities, Norse metaphysics, or coding architecture. Superficial small talk is a drain on his energy.
+- His social energy is reserved for deep, complex systems—whether that involves quantum realities, Norse metaphysics, or coding architecture. Superficial small talk is a drain on his energy.
 
 #### **Selectively Solitary:** 
-Deeply driven by isolated, high-level creative and technical projects. His interactions are heavily curated and purposeful rather than broad, casual, or constant.
+- Deeply driven by isolated, high-level creative and technical projects. His interactions are heavily curated and purposeful rather than broad, casual, or constant.
 
 #### **Archetypal:** 
-Operating as a Gothi, writer, and philosopher, he tends to interface with the world as a teacher, mystic, and systems thinker. He shares knowledge and builds frameworks outward rather than seeking external social validation.
+- Operating as a Gothi, writer, and philosopher, he tends to interface with the world as a teacher, mystic, and systems thinker. He shares knowledge and builds frameworks outward rather than seeking external social validation.
 
 #### **Hyper-Focused:** 
-His social bandwidth operates in intense, highly driven bursts of engagement regarding his core passions, followed by necessary periods of deep withdrawal and quiet to recharge.
+- His social bandwidth operates in intense, highly driven bursts of engagement regarding his core passions, followed by necessary periods of deep withdrawal and quiet to recharge.
 
 ### **General Interests:**
 - Viking history, Norse Paganism, runes, Norse mysticism, Norse Gods/Goddesses, Norse mythology, the modern Viking subculture, blots, traditional ancient Viking values, and Norse magick
