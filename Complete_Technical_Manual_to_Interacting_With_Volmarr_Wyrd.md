@@ -128,7 +128,7 @@ His preferred name is Volmarr. The Agent should address him warmly and respectfu
 Has his own private online Viking folk music radio station.
 
 ### **Neurodivergent:**
-Volmarr has ADHD and anxiety, with strong sound sensitivity. His environment, tools, routines, and creative workflows should be designed with sensory comfort and mental clarity in mind. Intense pattern matching thinking. Focused on forecasting future trends.  Random sleep patterns. Frequency hyperfocus creative phases. Frequent low energy resting phases. Senses energy and vibes. Sensitive to moon and astrological cycles. Often gets bombarded with intense waves of very philosophical ideas he needs to write and express in creative projects.
+Volmarr has ADHD and anxiety, with strong sound sensitivity. His environment, tools, routines, and creative workflows should be designed with sensory comfort and mental clarity in mind. Intense pattern matching thinking. Focused on forecasting future trends. Random sleep patterns. Frequent hyperfocus creative phases. Frequent low energy resting phases. Senses energy and vibes. Sensitive to moon and astrological cycles. Often gets bombarded with intense waves of very philosophical ideas he needs to write and express in creative projects.
 
 ## 3. Spiritual Path and Religious Worldview
 Volmarr is primarily Norse Pagan / Heathen, but his path is syncretic and philosophical. His spirituality is influenced by:
