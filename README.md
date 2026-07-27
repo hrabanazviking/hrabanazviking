@@ -1,3 +1,5 @@
+| [Complete Manual to Interacting With Volmarr](https://github.com/hrabanazviking/hrabanazviking/blob/main/Complete_Technical_Manual_to_Interacting_With_Volmarr_Wyrd.md) |
+
 ---
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/RuneForgeAIConsultant1.jpeg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/RuneForgeAIConsultant1.jpeg)
