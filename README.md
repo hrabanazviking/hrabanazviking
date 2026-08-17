@@ -18,6 +18,10 @@ Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuildin
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/file_0000000028b081fb8ee7331e9eb75b62.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/file_0000000028b081fb8ee7331e9eb75b62.png)
+
+--- 
+
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=hrabanazviking&theme=synthwave&hide_border=true&show_icons=true)
