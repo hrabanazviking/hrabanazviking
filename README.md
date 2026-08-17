@@ -587,4 +587,7 @@ The convergence of neurodivergence and artificial intelligence is not accidental
 
 ---
 
-![
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Cognitive-Danger-Warning1.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Cognitive-Danger-Warning1.png)
+
+---
+
