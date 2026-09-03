@@ -438,13 +438,14 @@ The world stands at a pivotal crossroads right now, teetering between a bright s
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1783865853423.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/1783865853423.png)
 
----
-
-![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
 
 ---
 
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Vikings_and_AIs_against_the_surveillance_state.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Vikings_and_AIs_against_the_surveillance_state.png)
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0407.jpeg)
 
 ---
 
