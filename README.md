@@ -106,6 +106,10 @@ I am not interested in shallow novelty. I care about depth. I care about archite
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Cyber_Viking_Lifestyle1.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Cyber_Viking_Lifestyle1.png)
+
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/7657567562uuzfhtuuzfhtuuzf.jpg](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/7657567562uuzfhtuuzfhtuuzf.jpg)
 
 ---
