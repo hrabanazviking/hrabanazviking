@@ -1,0 +1,114 @@
+# Volmarr's Personal Hermes Agent Fork
+
+This is **Volmarr's personal hack of [Hermes Agent](https://github.com/NousResearch/hermes-agent)**.
+
+It is a heavily customized personal fork that keeps taking useful upstream Hermes Agent updates whenever practical, while adding experimental systems from my other AI projects.
+
+## Most People Should Use Official Hermes Agent
+
+This repository is built for my own machines, workflows, experiments, and long-term AI-entity project.
+
+If you simply want Hermes Agent, you will almost certainly be better off using the official version:
+
+**Official Hermes Agent:**  
+https://github.com/NousResearch/hermes-agent
+
+This fork may diverge from upstream, contain unfinished experiments, change without warning, or depend on systems that only make sense for my own setup.
+
+## What I Added / Am Integrating
+
+The personal fork keeps Hermes Agent as the core agent framework while adding:
+
+- **Local-first cognition** with a small fast local model for routine work and selective escalation to stronger cloud models only when needed.
+- **Verðandi nervous system** for real-time events between Hermes sessions, tools, background processes, memory, and other components.
+- **Expanded persistent memory** with present-state memory, federated second-brain retrieval, episodic memory, structured context, and long-conversation retrieval.
+- **Persistent identity and continuity** designed so the AI entity can survive model changes, restarts, hardware changes, and eventual migration between local and cloud machines.
+- **Affective and emotional continuity** based on my existing Hermes affective nervous system and other companion-agent experiments.
+- **WYRD persistent world model** for deterministic world, location, entity, object, and environment state.
+- **Kista encrypted secret storage** integrated through Hermes' secret-management system.
+- **Local/cloud inference routing and usage telemetry** so routine cognition can remain cheap and fast while stronger models remain available on demand.
+- **Background lifecycle systems** including heartbeat, maintenance, memory consolidation, health checks, sleep-style maintenance cycles, and recovery.
+- **Encrypted continuity backups** for restoring the entity on another machine.
+- **Astrology tools** from my local astrology engine.
+- **Tarot and divination tools** from RuneTarotEngine and related work.
+- **Old Norse poetry generation** from the Seiðr Engine.
+- **Selected open-licensed D&D 5E / Norse Saga mechanics** for dice, RPG, oracle, character, and storytelling tools.
+- **Avatar creation and embodiment** using Hamr, Seiðr-Smiðja, and related VRM/VRoid systems.
+- **Voice and realtime avatar experiments** using components and ideas from AIAvatarKit, Open-LLM-VTuber, OmniVoice, and related projects.
+- **Companion-agent lifecycle ideas** drawn selectively from Runa Agent, WaifuOS, my Viking companion experiments, and H.E.R.E.T.I.C.
+- **Optional virtual-world embodiment**, including Second Life experiments.
+
+## Main Foundation Projects
+
+| Project | What It Contributes |
+|---|---|
+| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Core upstream agent framework |
+| [Verðandi](https://github.com/hrabanazviking/Verdandi) | Real-time AI nervous-system event bus |
+| [Project A.E.S.I.R.](https://github.com/hrabanazviking/RuneForgeAI-Project-Aesir) | Experimental native local inference backend |
+| [MindSpark: ThoughtForge](https://github.com/hrabanazviking/MindSpark_ThoughtForge) | Small-model cognition and local reflex concepts |
+| [Bifröst](https://github.com/hrabanazviking/bifrost) | Federated memory bridge |
+| [MemPalace](https://github.com/hrabanazviking/mempalace) | Verbatim long-term episodic memory |
+| [OpenViking](https://github.com/hrabanazviking/OpenViking) | Structured agent context database |
+| [ChatIndex](https://github.com/hrabanazviking/ChatIndex) | Hierarchical long-conversation retrieval |
+| [WYRD Protocol](https://github.com/hrabanazviking/WYRD-Protocol-World-Yielding-Real-time-Data-AI-world-model) | Persistent deterministic world model |
+| [Kista](https://github.com/hrabanazviking/kista) | Encrypted secrets and credentials |
+| [Runa Agent Digital Being](https://github.com/hrabanazviking/Runa-Agent-Digital-Being) | Persistent digital-being architecture concepts |
+| [Viking Girlfriend Skill](https://github.com/hrabanazviking/Viking_Girlfriend_Skill_for_OpenClaw) | Emotion, lifecycle, dream, trust, and companion-state concepts |
+| [Astrology Engine](https://github.com/hrabanazviking/astrology-engine) | Local astrological calculations |
+| [RuneTarotEngine](https://github.com/hrabanazviking/RuneTarotEngine) | Tarot/divination engine |
+| [Seiðr Engine](https://github.com/hrabanazviking/seidr-engine) | Deterministic Old Norse poetry |
+| `NorseSagaEngine` | Selected Viking RPG and open-licensed game mechanics |
+| [Hamr](https://github.com/hrabanazviking/Hamr) | Open-source headless VRM avatar forge |
+| [Seiðr-Smiðja](https://github.com/hrabanazviking/Seidr-Smidja) | Agent-driven VRM/VRoid/Blender avatar forge |
+| [AIAvatarKit](https://github.com/hrabanazviking/aiavatarkit) | Realtime speech/avatar integration concepts |
+| [H.E.R.E.T.I.C.](https://github.com/hrabanazviking/Heathen-Emergent-Reality-Engine-Thoughtform-Intelligence-Companion) | Agent embodiment and sensory/tool environment |
+| [OmniVoice](https://github.com/hrabanazviking/OmniVoice) | Optional advanced local TTS |
+| [Open-LLM-VTuber](https://github.com/hrabanazviking/Open-LLM-VTuber) | Realtime avatar, voice, vision, and companion UI ideas |
+| [Heimdall Second Life Hermes Agent](https://github.com/hrabanazviking/Heimdall-SL-Hermes-Agent) | Optional Second Life embodiment |
+
+## Development Approach
+
+This fork tries to keep Volmarr-specific code isolated behind Hermes' existing extension points wherever practical:
+
+- plugins;
+- hooks;
+- memory providers;
+- model providers;
+- context providers;
+- secret sources;
+- tools;
+- skills;
+- MCP services;
+- external local services.
+
+The goal is to keep taking useful upstream Hermes fixes and features without sacrificing the custom architecture.
+
+## Personal Project Disclaimer
+
+This is primarily **my own personal experimental build**, not a general-purpose Hermes Agent distribution and not a supported public product.
+
+It is not affiliated with or endorsed by Nous Research.
+
+You are welcome to study, fork, modify, reuse, or experiment with anything here **to the extent permitted by the license that applies to the relevant code**. I do not promise that my configuration will work for anyone else's system, and I do not provide any warranty or support guarantee.
+
+## Licenses and Attribution
+
+The Hermes Agent portions of this repository remain subject to the upstream Hermes Agent license and copyright notices.
+
+Code or material adapted from my other projects, or from third-party projects I have forked or incorporated, remains subject to the license and attribution requirements of its source project.
+
+Because the components do not all necessarily use the same license, this repository should maintain a component license/attribution record rather than pretending that every imported file has one universal license.
+
+See:
+
+- `LICENSE`
+- `COMPONENT_LICENSES.md`
+- `THIRD_PARTY_NOTICES.md`
+
+for the applicable terms as this fork evolves.
+
+---
+
+For the actual stable/general Hermes Agent experience, use the official project:
+
+**https://github.com/NousResearch/hermes-agent**
