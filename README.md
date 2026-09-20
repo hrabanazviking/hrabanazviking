@@ -624,3 +624,10 @@ The convergence of neurodivergence and artificial intelligence is not accidental
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/HuggingFace_RuneForgeAI1-Sept-20-2026.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/HuggingFace_RuneForgeAI1-Sept-20-2026.png)
+
+---
+
+[RuneForgeAI @ HuggingFace](https://huggingface.co/RuneForgeAI)
+
+---
