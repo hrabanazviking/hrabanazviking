@@ -1,3 +1,7 @@
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Volmarr_Heathen_Third_Path_1_Sept-20-2026.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Volmarr_Heathen_Third_Path_1_Sept-20-2026.png)
+
+---
+
 # The Heathen Third Path and The Cyber-Viking Ethos  
 
 ---
