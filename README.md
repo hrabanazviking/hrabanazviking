@@ -10,6 +10,12 @@
 
 Norse Pagan • Mythic Engineering • AI Systems • Viking-Themed Worldbuilding
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Volmarr_Viking_Nation_of_1_Sept-20-2026.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Volmarr_Viking_Nation_of_1_Sept-20-2026.png)
+
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/map_to_Volmarrs_realm.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/map_to_Volmarrs_realm.png)
 
 ---
