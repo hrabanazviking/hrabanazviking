@@ -1,3 +1,7 @@
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/RuneForgeAI_Norse_Mythology_Glossary1.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/RuneForgeAI_Norse_Mythology_Glossary1.png)
+
+---
+
 # GLOSSARY OF NORSE PAGAN VIKING TERMS
 
 (GLOSSARY.md)
