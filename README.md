@@ -630,6 +630,6 @@ The convergence of neurodivergence and artificial intelligence is not accidental
 
 [RuneForgeAI @ HuggingFace](https://huggingface.co/RuneForgeAI)
 
-> RuneForgeAI is my hub for open-source AI models, datasets, experiments, fine-tunes, and research focused on local intelligence, autonomous agents, memory, personality, and mythic-inspired AI systems.
+> RuneForgeAI @ HuggingFace is my hub for open-source AI models, datasets, experiments, fine-tunes, and research focused on local intelligence, autonomous agents, memory, personality, and mythic-inspired AI systems.
 
 ---
