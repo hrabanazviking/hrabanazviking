@@ -1,3 +1,7 @@
+![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Volmarr_Entity_Tech_Manual1_Sept-20-2026.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Volmarr_Entity_Tech_Manual1_Sept-20-2026.png)
+
+---
+
 # Volmarr Wyrd — The Complete Technical Manual to Interacting With This Entity 
 
 ## Revised July-27-2026
