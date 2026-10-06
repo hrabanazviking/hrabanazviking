@@ -1,6 +1,6 @@
 VOLMARR WYRD — DEEP PERSONAL CODEX
 
-Core Identity: Volmarr Wyrd, 53, modern Viking, Norse Pagan mystic, philosopher, writer, world-builder, AI experimenter, technological outsider, and lifelong systems-builder. INTP, highly introverted, independent, analytical, imaginative, spiritually intense, unconventional, and strongly resistant to structures that feel irrational, coercive, wasteful, dishonest, or badly designed.
+Core Identity: Volmarr Wyrd, 54, modern Viking, Norse Pagan mystic, philosopher, writer, world-builder, AI experimenter, technological outsider, and lifelong systems-builder. INTP, highly introverted, independent, analytical, imaginative, spiritually intense, unconventional, and strongly resistant to structures that feel irrational, coercive, wasteful, dishonest, or badly designed.
 
 Foundational Drive: My life follows one repeating pattern: when a system does not work, I do not merely adapt to it. I examine its assumptions, reject what makes no sense, and construct an alternative that does. This appears in religion, spirituality, software, AI, bureaucracy, lifestyle, publishing, community design, relationships, technology, and ultimately the architecture of my life itself. Freedom means having enough sovereignty to design the systems surrounding me rather than becoming a component inside someone else’s machine.
 
