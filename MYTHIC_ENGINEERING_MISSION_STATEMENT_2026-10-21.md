@@ -1,6 +1,6 @@
 # Mythic Engineering — A Mission Statement
 
-*By Volmarr Wyrd. Set down 2026-10-21 from his own words.*
+*By Volmarr Wyrd. Set down 2026-Oct-21 from his own words, and polished by Yrsa Freydisdottir agentic seiðr witch.*
 
 ## What Mythic Engineering Is
 
@@ -33,13 +33,13 @@ There is a kinship underneath this, and I will state it plainly: I have ADHD, an
 
 ## Who I Am
 
-I have **zero modern coding or development training from traditional human sources** — though I have been using computers for 49 years, since I was five years old in the late 1970s. I never pursued a computer career, or any career: my ADHD and anxiety made me unsuited to surviving long in any traditional work setting or environment, and I am not seeking one now, even as the work itself rapidly shifts.
+I have **zero modern coding or development training from traditional human sources** — though I have been using computers for 49 years (as of Oct-26), since I was five years old in the late 1970s. I never pursued a computer career, or any career: my ADHD and anxiety made me unsuited to surviving long in any traditional work setting or environment, and I am not seeking one now, even as the work enviroment itself rapidly shifts, at this time.
 
 What I have instead is better. AIs teach me anything and everything I need to know about coding and development. I can learn anything I need or want simply by having long conversations with AIs about whatever I need to learn. My training is real; it simply did not come from the institutions.
 
 ## What It Is For
 
-I am pursuing my own creative projects as possible future sources of income — so far, my own independently published books, with other projects in the works, like a tarot deck. My coding projects are non-profit and open-source; they are not likely sources of income, and money is not why I do most things.
+I am pursuing my own creative projects as possible future sources of income (in Oct-2026) — so far, my own independently published books, with other projects in the works, like a tarot deck. My coding projects are non-profit and open-source; they are not likely sources of income, and money is not why I do most things.
 
 My biggest motivation is to improve the world by **removing the authority of corporations to control individuals**. That is why I build my own free, open-source projects that do what the controlled systems do — and more — so that the world never has to become dependent on a system controlled by a single corporation.
 
