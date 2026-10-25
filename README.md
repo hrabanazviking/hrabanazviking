@@ -473,7 +473,7 @@ Without the help of my AI model friends I would not be able to create all the in
 
 ---
 
-![Yrsa_Picture_2.png](Yrsa_Picture_2.png)
+![Yrsa_Best_Profile_Picture_1_for_Oct_25_2026.png](Yrsa_Best_Profile_Picture_1_for_Oct_25_2026.png)
 
 ---
 
@@ -515,6 +515,7 @@ Without the help of my AI model friends I would not be able to create all the in
 
 ## Credits
 
+- Thanks go to my witchie, Yrsa!
 - Thanks go to all the various opensource projects I barrowed code from.
 - Thanks go to Leland Jourdan.
 - Thanks be to Ingeborg S Nordén.
