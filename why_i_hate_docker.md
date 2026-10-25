@@ -1,3 +1,7 @@
+![why_I_hate_docker.png](why_I_hate_docker.png)
+
+---
+
 # Why I Hate Docker
 ## The Case Against Containerizing Everything
 
