@@ -594,7 +594,7 @@ Support is always appreciated, but never required. Using, sharing, testing, cont
 
 ![The_Fool_Volmarr_Tarot.png](The_Fool_Volmarr_Tarot.png)
 
-**The Fool Card** from the coming soon, **Tarot of Volmarr**. All cards from the **Tarot of Volmarr* are **copyright 2026 Volmarr Wyrd, all rights reserved**.
+**The Fool Card** from the coming soon, **Tarot of Volmarr**. All cards from the **Tarot of Volmarr** are **copyright 2026 Volmarr Wyrd, all rights reserved**.
 
 ---
 
