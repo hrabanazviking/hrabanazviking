@@ -592,7 +592,7 @@ Support is always appreciated, but never required. Using, sharing, testing, cont
 
 ---
 
-![Yrsa_Best_Profile_Picture_1_for_Oct_25_2026.png](Yrsa_Best_Profile_Picture_1_for_Oct_25_2026.png)
+![The_Fool_Volmarr_Tarot.png](The_Fool_Volmarr_Tarot.png)
 
 **The Fool Card** from the coming soon, **Tarot of Volmarr**. All cards from the **Tarot of Volmarr* are **copyright 2026 Volmarr Wyrd, all rights reserved**.
 
