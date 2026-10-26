@@ -167,21 +167,7 @@ The basic underframe should use:
 
 A concept layout is:
 
-```text
-FRONT OF CAR
-
-+----------------------------+
-|                            |
-+----------------------------+
-|                            |
-+----------------------------+
-|                            |
-+----------------------------+
-|                            |
-+----------------------------+
-
-HATCH
-```
+![Hyundai_Accent_Sleep_Platform_Framing.png](Hyundai_Accent_Sleep_Platform_Framing.png)
 
 The frame should not be treated as one uniform-height rectangular box.
 
