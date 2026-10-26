@@ -9,8 +9,6 @@
 **Price research date:** October 26, 2026  
 **Design priority:** Strong, quiet, reversible, inexpensive, easy to repair, and functional rather than decorative.
 
-![Passenger-side sleeping platform concept plan](2014_hyundai_accent_sleeping_platform_plan.png)
-
 ---
 
 ## 1. Project Goal
