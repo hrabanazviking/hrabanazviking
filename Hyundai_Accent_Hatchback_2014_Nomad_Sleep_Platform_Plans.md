@@ -946,3 +946,529 @@ The design is intentionally conservative about dimensions that cannot be verifie
 Once the seats are physically out and the measurement sheet is completed, this concept can be converted into an exact final cut list with essentially no guesswork.
 
 ---
+
+# Improved Removable Hinged-Top Retention Design
+## Addendum for the 2014 Hyundai Accent SE Passenger-Side Sleeping Platform
+
+This section supersedes the earlier top-retention concept wherever the two conflict.
+
+The purpose of this refinement is to keep the sleeping platform:
+
+- quiet
+- strong
+- fully supported
+- easy to open for normal storage access
+- easy to remove for deep storage access
+- securely retained while driving
+- simple to build and repair
+- free of straps running across the sleeping surface
+
+---
+
+# 1. Core Design
+
+The sleeping platform consists of two major assemblies:
+
+1. **A rigid 2x3 wooden frame**
+2. **A full-width plywood top made from multiple hinged sections**
+
+The wooden frame remains mechanically secured to the Hyundai's existing factory seat/body mounting locations.
+
+The plywood top rests on the frame but is **not permanently screwed to it**.
+
+Instead, the top is held firmly to the frame by multiple **heavy-duty cam-lock cargo straps positioned only along the two long side edges of the platform**.
+
+The straps do **not** run across the width of the plywood.
+
+---
+
+# 2. Full-Width Plywood Top
+
+The plywood top should be approximately the same finished width as the outside width of the platform frame.
+
+In other words:
+
+> **The plywood covers the complete frame width, including both longitudinal side rails.**
+
+The preliminary target remains approximately:
+
+- **Width:** about 28 inches
+- **Overall length:** about 74 inches
+
+Final dimensions must still be measured in the actual vehicle after the passenger and rear seats are removed.
+
+The top uses:
+
+- 3/4-inch pre-sanded plywood
+- multiple sections
+- continuous/piano hinges between sections
+
+A practical preliminary section layout remains:
+
+- front section
+- middle section
+- rear section
+
+The exact panel lengths can be adjusted after the interior is measured.
+
+---
+
+# 3. Hinged Access
+
+The plywood sections remain connected by strong continuous hinges.
+
+This provides the **normal everyday access method**.
+
+Instead of removing the entire top whenever storage is needed:
+
+1. release any side straps that prevent the desired section from opening
+2. lift/fold the appropriate hinged section
+3. access the storage bay beneath it
+4. close the plywood section
+5. re-secure the appropriate cam-lock straps
+
+This allows quick access to gear without dismantling the platform.
+
+---
+
+# 4. Deep-Access Removal
+
+For occasions when much greater access is needed, the entire hinged plywood-top assembly can be released from the frame.
+
+The process is:
+
+1. release all cam-lock cargo straps
+2. free the straps from their plywood holes/frame loops as necessary
+3. fold the hinged plywood top into a manageable configuration if helpful
+4. lift the entire plywood-top assembly away from the frame
+5. gain completely unobstructed access to the open frame and storage area below
+
+The frame itself remains anchored to the car.
+
+This gives the platform **two distinct access modes**:
+
+### Everyday access
+
+Use the hinged plywood sections.
+
+### Deep access
+
+Release the side-edge cam straps and remove the hinged top assembly.
+
+---
+
+# 5. Rubber Isolation Layer
+
+A thin rubber isolation layer should be placed between the wooden frame and the plywood top.
+
+This is an important part of the design.
+
+Recommended material:
+
+- EPDM rubber
+- neoprene rubber
+- dense automotive rubber strip
+- other durable noncompressible anti-rattle material
+
+Recommended thickness:
+
+- approximately **1/16 inch**
+- up to approximately **1/8 inch** if the material is fairly firm
+
+Avoid excessively thick or soft foam.
+
+The top should feel solid rather than springy.
+
+---
+
+# 6. Rubber Placement
+
+Rubber should be placed along the upper surfaces where the plywood actually bears against the wooden frame.
+
+This should normally include:
+
+- top of the left longitudinal 2x3 side rail
+- top of the right longitudinal 2x3 side rail
+- top surfaces of supporting crossmembers where appropriate
+
+The rubber serves several purposes:
+
+- prevents wood-on-wood squeaking
+- reduces vibration
+- reduces rattling
+- protects the plywood underside
+- protects the frame
+- slightly increases friction between the plywood and frame
+- improves the solid feel of the finished platform
+
+The rubber is **not** the structural retention system.
+
+The cam-lock cargo straps provide the hold-down force.
+
+---
+
+# 7. Side-Edge Cam-Lock Strap System
+
+The revised design uses **strong cam-lock cargo straps**.
+
+The key principle is:
+
+> **Every strap is local to one long side edge of the platform. No strap crosses the sleeping surface from one side of the platform to the other.**
+
+Each strap corresponds to a hole or slot near one of the plywood's long side edges.
+
+A strap:
+
+1. passes through its corresponding plywood hole/slot near the side edge
+2. goes down beside the plywood
+3. loops around the adjacent longitudinal 2x3 side frame rail
+4. returns to its cam-lock buckle
+5. is tightened enough to pull the plywood firmly down against the rubber-covered frame
+
+The entire strap loop remains concentrated near the side edge.
+
+The center sleeping area remains clear.
+
+---
+
+# 8. Strap Layout
+
+Straps should be distributed along **both long sides** of the platform.
+
+Conceptually:
+
+```text
+LEFT SIDE EDGE                         RIGHT SIDE EDGE
+
+  [strap]                                [strap]
+     |                                      |
++----O--------------------------------------O----+
+|                                                |
+|                 FRONT PANEL                    |
+|                                                |
++----O--------------------------------------O----+
+     |                                      |
+  [strap]                                [strap]
+
++----O--------------------------------------O----+
+|                                                |
+|                 MIDDLE PANEL                   |
+|                                                |
++----O--------------------------------------O----+
+     |                                      |
+  [strap]                                [strap]
+
++----O--------------------------------------O----+
+|                                                |
+|                  REAR PANEL                    |
+|                                                |
++----O--------------------------------------O----+
+     |                                      |
+  [strap]                                [strap]
+```
+
+**Important:** The lines above represent locations only. They do **not** represent straps running across the panel.
+
+Every strap loops only around the side rail immediately below its own edge location.
+
+---
+
+# 9. Number of Straps
+
+The exact number can be finalized after the platform dimensions are measured.
+
+A reasonable starting concept is approximately:
+
+- 2 or more retention points per long side for each major plywood section, depending on hinge position and panel size
+
+This may result in roughly:
+
+- 8 to 12 individual side-edge strap locations across the complete platform
+
+The goal is not to use the maximum possible number of straps.
+
+The goal is to provide enough distributed clamping force that:
+
+- the plywood cannot bounce
+- the plywood cannot shift laterally
+- the hinged assembly remains quiet
+- no single strap carries an excessive portion of the load
+
+The final layout should be chosen after the frame is built and the hinge positions are known.
+
+---
+
+# 10. Strap Type
+
+Use **high-strength cam-lock cargo straps**.
+
+Preferred characteristics:
+
+- strong woven nylon or polyester webbing
+- approximately 1 inch or wider
+- strong cam buckle
+- short enough that excess webbing is limited
+- rated for cargo restraint
+- easy to release by hand
+- easy to replace if damaged
+
+Cam-lock straps are preferred over ratchet straps for this application.
+
+Ratchet straps can generate far more force than is needed and could:
+
+- crush plywood edges
+- deform the wooden frame
+- overtension hinges
+- compress the rubber excessively
+
+The cam strap needs to be **firmly snug**, not brutally tight.
+
+---
+
+# 11. Buckle Position
+
+The cam-lock buckle should remain near the side edge of the plywood.
+
+It should not sit in the middle of the sleeping area.
+
+The preferred position is:
+
+- close to the left or right long edge
+- easy to reach
+- unlikely to sit directly beneath the sleeper
+- unlikely to snag bedding
+- unable to contact or damage interior trim
+
+Any loose strap tail should be:
+
+- rolled
+- tucked
+- secured with an elastic keeper
+- or otherwise prevented from flapping or rattling while driving
+
+---
+
+# 12. Plywood Strap Holes / Slots
+
+Each strap requires a smooth hole or elongated slot near the plywood's side edge.
+
+The hole should be:
+
+- large enough for the chosen strap to pass easily
+- far enough from the plywood edge to preserve strength
+- positioned directly above or immediately adjacent to the longitudinal frame rail
+- rounded rather than sharply square
+- carefully sanded
+
+A routed slot with rounded ends is preferable to a rough rectangular saw cut.
+
+---
+
+# 13. Protecting the Strap Holes
+
+Because the strap repeatedly contacts the plywood, the slot edges should receive extra attention.
+
+Recommended treatment:
+
+1. cut the slot
+2. round all corners
+3. sand the edges completely smooth
+4. slightly radius the upper and lower plywood edges
+5. seal the exposed plywood laminations
+
+Optional reinforcement may later include:
+
+- epoxy-sealed slot edges
+- durable plastic edge trim
+- smooth metal eyelet/slot reinforcement
+- another low-friction protective liner
+
+The strap must never run over a sharp plywood edge.
+
+---
+
+# 14. Frame Rail Relationship
+
+The two longitudinal 2x3 rails are central to the retention system.
+
+Each rail serves three purposes:
+
+1. structural side member
+2. support beneath the plywood
+3. anchor surface around which the cam straps loop
+
+The plywood sits directly above the rail with rubber between them.
+
+Conceptual cross-section:
+
+```text
+        CAM BUCKLE
+            ||
+       plywood top
+   =================
+         rubber
+   -----------------
+        2x3 rail
+       |       |
+ strap |       | strap
+       |_______|
+```
+
+The strap loop is **local to the rail and plywood edge**.
+
+It does not extend across the platform.
+
+---
+
+# 15. Frame-to-Car Anchoring Remains Separate
+
+The cam straps only secure:
+
+> **plywood top -> wooden frame**
+
+They do **not** secure:
+
+> **wooden frame -> Hyundai**
+
+The wooden frame must still be independently anchored using the existing factory seat/body mounting locations as described in the main build document.
+
+This creates two independent systems:
+
+### Vehicle retention
+
+Factory mounting points secure the wooden frame to the car.
+
+### Top retention
+
+Cam-lock cargo straps secure the removable plywood top to the wooden frame.
+
+This separation is intentional.
+
+---
+
+# 16. Lateral Movement Control
+
+The tightened cam straps and rubber will resist movement, but the top should not depend entirely on friction.
+
+Small wooden locating blocks, cleats, or stops may be fitted underneath the plywood in strategic locations.
+
+These should:
+
+- fit just inside the frame
+- prevent sideways movement
+- prevent front-to-rear movement
+- avoid interfering with hinged operation
+- allow the top to lift away when straps are released
+
+The locating blocks do **not** need to carry the primary sleeping load.
+
+Their job is simply to keep the plywood correctly registered on the frame.
+
+---
+
+# 17. Why This Design Is Better
+
+This revised system combines several useful properties.
+
+## Quiet
+
+Rubber separates the plywood from the frame.
+
+## Strong
+
+The 3/4-inch plywood remains fully supported by the ladder frame.
+
+## Secure
+
+Multiple high-strength cam straps hold the top down.
+
+## Comfortable
+
+No straps run across the main sleeping surface.
+
+## Accessible
+
+Hinged panels provide routine storage access.
+
+## Removable
+
+Releasing the cam straps allows the complete top assembly to be lifted off.
+
+## Repairable
+
+Straps, hinges, rubber, plywood, and frame components can all be replaced independently.
+
+## Reversible
+
+The vehicle itself does not need new floor holes drilled for the platform.
+
+---
+
+# 18. Refined Construction Sequence
+
+After the main wooden frame has been built and test-fitted:
+
+1. Apply thin rubber strip to the upper frame contact surfaces.
+2. Place the complete plywood top on the frame.
+3. Confirm the plywood is full frame width.
+4. Confirm all hinged sections operate correctly.
+5. Mark the exact location of the longitudinal side rails on the plywood.
+6. Plan strap locations along both long edges.
+7. Mark each plywood strap hole/slot.
+8. Remove the plywood.
+9. Drill/router/cut the strap slots.
+10. Round and sand every slot.
+11. Seal exposed plywood edges.
+12. Reinstall the plywood.
+13. Route each cam strap through its own edge hole.
+14. Loop each strap around the adjacent longitudinal side rail.
+15. Secure each strap with its cam-lock buckle near the side edge.
+16. Tighten straps evenly.
+17. Test every hinged panel.
+18. Verify the complete top can still be removed when all straps are released.
+19. Test for movement by pushing the top side-to-side and fore/aft.
+20. Add locating blocks if additional anti-shift control is desirable.
+21. Road-test and listen for rattles or squeaks.
+
+---
+
+# 19. Important Design Rule
+
+The defining rule of this revision is:
+
+> **THE CARGO STRAPS EXIST ONLY AT THE LONG SIDE EDGES OF THE PLATFORM.**
+
+They do not:
+
+- span from left side to right side
+- run across the sleeper's body area
+- cross the center of the plywood
+- create raised bands across the mattress surface
+
+Each strap is a short, local hold-down connecting the plywood edge to the longitudinal frame rail immediately underneath that edge.
+
+---
+
+# 20. Updated Final Concept
+
+The finished platform is therefore:
+
+- approximately 28 inches wide
+- approximately 74 inches long
+- one rigid 2x3 ladder frame
+- frame anchored to factory Hyundai mounting locations
+- thin rubber isolation on top of frame members
+- one full-width plywood sleeping surface
+- plywood divided into multiple hinged sections
+- continuous hinges between the sections
+- multiple strong cam-lock cargo straps
+- strap holes located only near the two long side edges
+- each strap loops only around the adjacent longitudinal side rail
+- no straps across the sleeping area
+- top removable when all straps are released
+- normal storage accessible by opening the hinged sections
+
+This refinement should be treated as the preferred current design for the removable plywood top.
+
+---
+
