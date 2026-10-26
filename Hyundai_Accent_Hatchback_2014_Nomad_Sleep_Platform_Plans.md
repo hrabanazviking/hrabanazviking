@@ -1138,33 +1138,39 @@ Straps should be distributed along **both long sides** of the platform.
 Conceptually:
 
 ```text
-LEFT SIDE EDGE                         RIGHT SIDE EDGE
+LEFT SIDE EDGE                       RIGHT SIDE EDGE
 
-  [strap]                                [strap]
-     |                                      |
-+----O--------------------------------------O----+
-|                                                |
-|                 FRONT PANEL                    |
-|                                                |
-+----O--------------------------------------O----+
-     |                                      |
-  [strap]                                [strap]
++--------------------------------------------------+
+|                                                  |
+==O                                              O==
+|                                                  |
+|                 FRONT PANEL                      |
+|                                                  |
+==O                                              O==
+|                                                  |
++--------------------------------------------------+
++--------------------------------------------------+
+|                                                  |
+==O                                              O==
+|                                                  |
+|                 MIDDLE PANEL                     |
+|                                                  |
+==O                                              O==
+|                                                  |
++--------------------------------------------------+
++--------------------------------------------------+
+|                                                  |
+==O                                              O==
+|                                                  |
+|                  REAR PANEL                      |
+|                                                  |
+==O                                              O==
+|                                                  |
++--------------------------------------------------+
 
-+----O--------------------------------------O----+
-|                                                |
-|                 MIDDLE PANEL                   |
-|                                                |
-+----O--------------------------------------O----+
-     |                                      |
-  [strap]                                [strap]
 
-+----O--------------------------------------O----+
-|                                                |
-|                  REAR PANEL                    |
-|                                                |
-+----O--------------------------------------O----+
-     |                                      |
-  [strap]                                [strap]
+Key: Strap plus hole in wood is ==O   or  O==
+
 ```
 
 **Important:** The lines above represent locations only. They do **not** represent straps running across the panel.
