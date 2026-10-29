@@ -186,6 +186,10 @@ I am especially drawn to projects where intelligence needs to remain coherent ac
 
 ---
 
+![https://github.com/hrabanazviking/hrabanazviking/blob/main/Lets_Build_Our_Own_App_1.png](https://github.com/hrabanazviking/hrabanazviking/blob/main/Lets_Build_Our_Own_App_1.png)
+
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Magician-cybermagician33454.png](https://raw.githubusercontent.com/hrabanazviking/hrabanazviking/refs/heads/main/Magician-cybermagician33454.png)
 
 ---
